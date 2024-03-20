@@ -1,2 +1,1 @@
-# Tic-Tac-Toe
-Tic-Tac-Toe in C#
+# Calculator App in C#
